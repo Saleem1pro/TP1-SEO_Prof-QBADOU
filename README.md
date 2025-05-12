@@ -12,5 +12,5 @@
 
 # Page Création Textiles
 
-![image page textiles](pics/textilePage.png.png)  
+![image page textiles](pics/textilePage.png)  
 
